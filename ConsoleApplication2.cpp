@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <string>
-
+//Вычисление дня недели 
 using namespace std;
 
 int Date(int D, int M, int Y)
